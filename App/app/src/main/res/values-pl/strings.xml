@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hugocopter</string>
+    <string name="button_start_text">Rozpocznij</string>
+    <string name="button_test_connection_again_text">SPRÓBUJ PONOWNIE</string>
+    <string name="logo_description">Logo</string>
+    <string name="no_connection_text">Brak połączenia z dronem. Upewnij się, że WiFi jest uruchomione oraz jest połączone z siecią \'Drone\'</string>
+    <string name="still_no_connection">Wciąż brak połączenia z siecią drona</string>
+    <string name="main_view_image_description">Obraz z kamery</string>
+    <string name="droneAddress" translatable="false">192.168.42.1</string>
+</resources>

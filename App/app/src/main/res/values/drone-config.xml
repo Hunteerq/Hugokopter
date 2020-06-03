@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="droneAddress">192.168.42.1</string>
+</resources>

@@ -1,0 +1,40 @@
+#######################################
+# Syntax Coloring Map For FlightController
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+AccelGyro	KEYWORD1	AccelGyro
+FlightController	KEYWORD1	FlightController
+PID	KEYWORD1	PID
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# AccelGyro Class
+Calibrate	KEYWORD2
+GetRawData	KEYWORD2
+GetRotationAccel	KEYWORD2
+GetRotationGyro	KEYWORD2
+GetRotation	KEYWORD2
+SetSensitivityGyro	KEYWORD2
+SetSensitivityAccel	KEYWORD2
+Initialize	KEYWORD2
+IsConnected	KEYWORD2
+SetAccelCorrection	KEYWORD2
+SetGyroCorrection	KEYWORD2
+GetAccelCorrection	KEYWORD2
+GetGyroCorrection	KEYWORD2
+GetData	KEYWORD2
+
+# FlightController Class
+
+# PID Class
+Update	KEYWORD2
+SetDesiredValue	KEYWORD2
+SetSampleTime	KEYWORD2
+SetOutputLimits	KEYWORD2
+SetConstants	KEYWORD2

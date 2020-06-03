@@ -1,0 +1,9 @@
+{
+  "ipAddress" : "",
+  "port" : 8080,
+  "videoPort" : 8081,
+  "maxPackage" : 4096,
+  "videoFrameRate" : 24,
+  "videoWidth" : 640,
+  "videoHeight" : 480
+}

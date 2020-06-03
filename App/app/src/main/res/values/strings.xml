@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hugocopter</string>
+    <string name="logo_description">Logo</string>
+    <string name="button_start_text">Start</string>
+    <string name="no_connection_text">You are not connected to the drone. Make sure you have WiFi enabled and connected to \'Drone\' network.</string>
+    <string name="button_test_connection_again_text">TRY AGAIN</string>
+    <string name="still_no_connection">Still not connected to drone network</string>
+    <string name="main_view_image_description">Camera video</string>
+</resources>
